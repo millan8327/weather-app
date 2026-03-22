@@ -1,0 +1,12 @@
+body{
+   display: flex;
+   justify-content: center;
+}
+.heading{
+    margin-top:10px;
+    font-size:30px;
+    border:10px solid;
+    display: inline-block;
+    padding:10px;
+box-shadow: 10px 10px 15px rgb(109, 208, 208);
+}   
